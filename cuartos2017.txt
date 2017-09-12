@@ -183,29 +183,71 @@
 </item>
 
 <item>
-<title>[Cuartos de final COAC 2017] CORO - La torre del reloj </title>        
-<urlsolve>https://www.youtube.com/watch?v=4GbfEksfHSc</urlsolve>
+<title>[Cuartos de final COAC 2017] CORO - Arría la carná </title>        
+<urlsolve>https://www.youtube.com/watch?v=CcQjMTPvqGA</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[Cuartos de final COAC 2017] CORO - La torre del reloj </title>        
-<urlsolve>https://www.youtube.com/watch?v=4GbfEksfHSc</urlsolve>
+<title>[Cuartos de final COAC 2017] COMPARSA - Los incondicionales </title>        
+<urlsolve>https://www.youtube.com/watch?v=LyJuRmLkkCA</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[Cuartos de final COAC 2017] CORO - La torre del reloj </title>        
-<urlsolve>https://www.youtube.com/watch?v=4GbfEksfHSc</urlsolve>
+<title>[Cuartos de final COAC 2017] CHIRIGOTA - Los konfundios </title>        
+<urlsolve>https://www.youtube.com/watch?v=9HT4Sl5bZak&t</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[Cuartos de final COAC 2017] CORO - La torre del reloj </title>        
-<urlsolve>https://www.youtube.com/watch?v=4GbfEksfHSc</urlsolve>
+<title>[Cuartos de final COAC 2017] CUARTETO - Los del patronato </title>        
+<urlsolve>https://www.youtube.com/watch?v=mwHRYLQ4IDw</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[Cuartos de final COAC 2017] CHIRIGOTA - El hombre que susurraba a la almohada </title>        
+<urlsolve>https://www.youtube.com/watch?v=VUUkkF8Q8jk</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[Cuartos de final COAC 2017] CORO - Los grasiosos </title>        
+<urlsolve>https://www.youtube.com/watch?v=CuyR_jCkzy4</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[Cuartos de final COAC 2017] COMPARSA - Los de la charca </title>        
+<urlsolve>https://www.youtube.com/watch?v=Goxfph1_xVo</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[Cuartos de final COAC 2017] CHIRIGOTA - Mi suegra como ya dije... </title>        
+<urlsolve>https://www.youtube.com/watch?v=1H4zC4euUVs</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[Cuartos de final COAC 2017] COMPARSA - La eternidad </title>        
+<urlsolve>https://www.youtube.com/watch?v=3UsHRdwM3mc</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[Cuartos de final COAC 2017] CORO - El mayor espectáculo del mundo </title>        
+<urlsolve>https://www.youtube.com/watch?v=x8_7DC9vFr8</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2017.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart.jpg</fanart>
 </item>
