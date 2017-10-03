@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
+<title>[COLOR gold]Homenaje a Manolo Cornejo[/COLOR][COLOR blue]- Programa Más Carnaval,[/COLOR] 26/09/17</title>        
+<urlsolve>https://www.youtube.com/watch?v=ziGa9XqSOoM</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
+<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
+</item>
+<item>
 <title>[COLOR gold]La Eternidad en el Calderón[/COLOR][COLOR blue]- 4 pases en 40 minutos[/COLOR] (Canal M.Ares)</title>        
 <urlsolve>https://www.youtube.com/watch?v=ziGa9XqSOoM</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
@@ -69,12 +75,23 @@
 <diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
 </item>
 <item>
+<title>[COLOR gold]30 Años y un pregón[/COLOR][COLOR blue]- La chirigota del Love,[/COLOR] 2015</title>        
+<urlsolve>https://www.youtube.com/watch?v=0FWAlZok1zw</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
+<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
+</item>
+<item>
 <title>[COLOR gold]Documental[/COLOR][COLOR blue] - Comparsa Los Patricios[/COLOR], 2015</title>        
 <urlsolve>https://www.youtube.com/watch?v=9ZfyjobgfYw</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
 <diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
 </item>
-
+<item>
+<title>[COLOR gold]Documental[/COLOR][COLOR blue] - Comparsa Los Borregos[/COLOR], 2015</title>        
+<urlsolve>https://www.youtube.com/watch?v=xJdiX-QKwqw</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
+<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
+</item>
 <item>
 <title>[COLOR gold]Documental[/COLOR][COLOR blue] - Chirigota los Buscaruinas[/COLOR], 2015</title>        
 <urlsolve>https://www.youtube.com/watch?v=ssl8ZPs_AYU</urlsolve>
@@ -90,19 +107,28 @@
 </item>
 
 <item>
+<title>[COLOR gold]Los de Gris, [/COLOR][COLOR blue] El Documental[/COLOR], 2013</title>        
+<urlsolve>https://www.youtube.com/watch?v=8R7Phgfegpg</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
+<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
+</item>
+<item>
 <title>[COLOR gold]Mujeres y hombres y muchaberza, [/COLOR][COLOR blue]El Documental[/COLOR], 2012</title>        
 <urlsolve>https://www.youtube.com/watch?v=BVef1D8iK3E</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
 <diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
 </item>
-
 <item>
-<title>[COLOR gold]Carnaval Recuperado[/COLOR][COLOR blue] (Diputación de Cádiz)[/COLOR]</title>        
-<urlsolve>https://www.youtube.com/watch?v=JGRI-d8VlE8</urlsolve>
+<title>[COLOR gold]La Serenissima, [/COLOR][COLOR blue]El Documental - 1ª Parte[/COLOR], 2012 (JcTV)</title>        
+<urlsolve>https://www.youtube.com/watch?v=XU6UoArQxHA</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
+<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
+</item><item>
+<title>[COLOR gold]La Serenissima, [/COLOR][COLOR blue]El Documental - 2ª Parte[/COLOR], 2012 (JcTV)</title>        
+<urlsolve>https://www.youtube.com/watch?v=Wdj3lPwtCfE</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
 <diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
 </item>
-
 
 <item>
 <title>[COLOR gold]Con todas las máscaras, [/COLOR][COLOR blue]Documental[/COLOR] - 1991 Los Reporteros</title>        
@@ -118,7 +144,12 @@
 <diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
 </item>
 
-
+<item>
+<title>[COLOR gold]Carnaval Recuperado[/COLOR][COLOR blue] (Diputación de Cádiz)[/COLOR]</title>        
+<urlsolve>https://www.youtube.com/watch?v=JGRI-d8VlE8</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras.png</thumbnail>
+<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
+</item>
 <item>
 <title>[COLOR gold]NODO[/COLOR][COLOR blue]- Fiestas Tipicas Gaditanas[/COLOR], 1965</title>        
 <urlsolve>https://www.youtube.com/watch?v=9i2iaW_9S1U</urlsolve>
