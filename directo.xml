@@ -7,7 +7,22 @@
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/directo.jpg</fanart>
 </item>
 
+<item>
+<title>externallink</title>
+<link>ignoreme</link>
+<externallink>https://www.youtube.com/watch?v=04Rj1AdIO2M</externallink>
+</item>
+<item>
+<title>externallink</title>
+<link>ignoreme</link>
+<externallink>https://www.youtube.com/watch?v=04Rj1AdIO2M;type=m3u&amp;output=ts$$TSDOWNLOADER$$</externallink>
+</item>
 
+<item>
+    <title>shani test</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://livestream.com/Onda-Cadiz/directo</externallink>
+</item>
 <item>
 <title>Onda Cádiz TV</title>
 <link>$doregex[GetPageUrl]</link>
