@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
-<title>[COLOR gold]Onda Cádiz TV[/COLOR][COLOR blue] COAC 2018[/COLOR] </title>        
-<urlsolve>https://www.youtube.com/watch?v=04Rj1AdIO2M</urlsolve>
-<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/oc.png</thumbnail>
+<title>[COLOR gold]Onda Cádiz TV[/COLOR][COLOR blue] COAC 2018[/COLOR] </title>   
+<link>http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8?</link>
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/directo.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/oc.png</thumbnail>
 </item>
+
 
 <item>
 <title>externallink</title>
