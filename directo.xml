@@ -8,39 +8,6 @@
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/oc.png</thumbnail>
 </item>
 
-
-<item>
-<title>externallink</title>
-<link>ignoreme</link>
-<externallink>https://www.youtube.com/watch?v=04Rj1AdIO2M</externallink>
-</item>
-<item>
-<title>externallink</title>
-<link>ignoreme</link>
-<externallink>https://www.youtube.com/watch?v=04Rj1AdIO2M;type=m3u&amp;output=ts$$TSDOWNLOADER$$</externallink>
-</item>
-
-<item>
-    <title>shani test</title>
-    <link>http://Ignoreme</link>
-    <externallink>https://livestream.com/Onda-Cadiz/directo</externallink>
-</item>
-<item>
-<title>Onda Cádiz TV</title>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://livestream.com/accounts/22727797/events/7923562'):
-   import liveresolver
-   u = liveresolver.resolve(url)
-   return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
 <item>
 <title>[COLOR gold]Canal Sur TV [/COLOR][COLOR blue]COAC 2018[/COLOR] </title>        
 <urlsolve>https://www.youtube.com/watch?v=9_mHRWjztNU</urlsolve>
@@ -54,7 +21,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://livestream.com/accounts/227
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/directo.jpg</fanart>
 <link>http://ignorame</link><thumbnail>
 </item>
-
 
 <item>
 <title> [COLOR white]Canal Sur: (Cuartos de Final, Semifinales y Gran Final)[/COLOR] </title> 
