@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
 <item>
-<title>[COLOR blue]Preliminares[/COLOR][COLOR gold] COAC[/COLOR] 2018</title>
+<title>[COLOR blue]Semifinales[/COLOR][COLOR gold] COAC[/COLOR] 2018</title>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2018.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart2018.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/preliminares2018.xml</externallink>
+<externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/semifinal2018.xml</externallink>
 </item>
+
 <item>
 <title>[COLOR blue]Cuartos de final[/COLOR][COLOR gold] COAC[/COLOR] 2018</title>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2018.png</thumbnail>
@@ -16,6 +18,13 @@
 <externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/cuartos2018.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR blue]Preliminares[/COLOR][COLOR gold] COAC[/COLOR] 2018</title>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2018.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart2018.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/preliminares2018.xml</externallink>
+</item>
 
 <!-- <item>
 <title>[COLOR blue]Final[/COLOR][COLOR gold] COAC[/COLOR] 2018</title>
@@ -23,14 +32,6 @@
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart2018.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/final2018.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR blue]Semifinales[/COLOR][COLOR gold] COAC[/COLOR] 2018</title>
-<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2018.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart2018.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/semifinal2018.xml</externallink>
 </item>
 
 <item>
