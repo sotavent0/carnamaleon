@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
 <title>[COLOR blue]Final[/COLOR][COLOR gold] COAC[/COLOR] 2018</title>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2018.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart2018.jpg</fanart>
@@ -33,14 +35,14 @@
 </item>
 
 <item>
-<title>[COLOR blue]La Cantera[/COLOR][COLOR gold] COAC 2018[/COLOR]</title>
+<title>[COLOR blue]COAC 2018[/COLOR][COLOR gold] La Cantera[/COLOR]</title>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2018.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/cantera2018.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/cantera2018.xml</externallink>
 </item>
 
-<!-- <item>
+<!-- 
 
 <item>
 <title>[COLOR blue]Pregon [/COLOR][COLOR gold]Carnaval de Cadiz[/COLOR] 2018</title>
@@ -49,6 +51,7 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/pregon2018.xml</externallink>
 </item>
+
 <item>
 <title>[COLOR blue]Quema [/COLOR][COLOR gold]del Dios Momo[/COLOR] 2018</title>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2018.png</thumbnail>
