@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
-<item>
-<title>[COLOR gold] • Spot COAC 2019[/COLOR][COLOR blue] | Onda Cadiz -[/COLOR] 2019</title>        
-<urlsolve>https://www.youtube.com/watch?v=OJOJivoXSy4</urlsolve>
-<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras_ondacadiz.png</thumbnail>
-<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
-</item>
-
 <item>
 <title>[COLOR gold] • 30 años de Carnavales[/COLOR][COLOR blue] | Programa 1º -[/COLOR] 2019</title>        
 <urlsolve>https://www.youtube.com/watch?v=qTnK7QjrcFg</urlsolve>
@@ -29,6 +21,12 @@
 <diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
 </item>
 
+<item>
+<title>[COLOR gold] • 7,20,[/COLOR][COLOR blue] El documental -[/COLOR] 2018</title>        
+<urlsolve>https://www.youtube.com/watch?v=4nXxgNAxzfU</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras_etore.png</thumbnail>
+<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
+</item>
 
 <item>
 <title>[COLOR gold] • Documental, [/COLOR][COLOR blue] "Murieron cantando" -[/COLOR] 2018</title>        
@@ -36,14 +34,6 @@
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras_diputacion.png</thumbnail>
 <diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
 </item>
-
-<item>
-<title>[COLOR gold] • Spot COAC 2018[/COLOR][COLOR blue] | Onda Cadiz -[/COLOR] 2018</title>        
-<urlsolve>https://www.youtube.com/watch?v=9kgmJfJEVP4</urlsolve>
-<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras_ondacadiz.png</thumbnail>
-<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
-</item>
-
 <item>
 <title>[COLOR gold] • Homenaje a Manolo Cornejo[/COLOR][COLOR blue] Programa Más Carnaval -[/COLOR] Sept2017</title>        
 <urlsolve>https://www.youtube.com/watch?v=zK-8ECmBbHk</urlsolve>
@@ -139,6 +129,13 @@
 <title>[COLOR gold] • Documental[/COLOR][COLOR blue] Carnaval en la piel -[/COLOR] 2016</title>        
 <urlsolve>https://www.youtube.com/watch?v=KqbsTZV2pPc</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras_canalsur1.png</thumbnail>
+<diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
+</item>
+
+<item>
+<title>[COLOR gold] • Película,[/COLOR][COLOR blue] the beautiful Cádiz -[/COLOR] 2015</title>        
+<urlsolve>https://www.youtube.com/watch?v=GtZeQYDuHdc</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconextras_chiriparsa.png</thumbnail>
 <diosmomo>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/extras.jpg</diosmomo>
 </item>
 
