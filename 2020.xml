@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR blue]Cuartos de final[/COLOR][COLOR gold] COAC[/COLOR] 2020</title>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/icon2020.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/fanart2020.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/cuartos2020.xml</externallink>
+</item>
 
 <item>
 <title>[COLOR blue]Preliminares[/COLOR][COLOR gold] COAC[/COLOR] 2020</title>
@@ -11,6 +17,7 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/preliminares2020.xml</externallink>
 </item>
+
 
 <item>
 <title>[COLOR blue]COAC 2020[/COLOR][COLOR gold] La Cantera[/COLOR]</title>
